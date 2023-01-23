@@ -2,7 +2,7 @@
 ![Logo](https://codehs.com/uploads/95806d490cc4dc99516794d852b5b25d)
 
 
-# Will's Super Fun Fishy Game!!! :)
+# Blue Fish Kovaak's: Reloaded :)
 
 An aim training game made with style, fun gameplay, and a little bit of love <3
 
