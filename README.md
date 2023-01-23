@@ -4,7 +4,7 @@
 
 # Will's Super Fun Fishy Game!!! :)
 
-An aim training game made with style, gameplay, and a little bit of love <3
+An aim training game made with style, fun gameplay, and a little bit of love <3
 
 
 ## Features
