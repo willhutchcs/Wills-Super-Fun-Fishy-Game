@@ -1,5 +1,5 @@
 
-![Logo](https://codehs.com/uploads/eb42d061160301365991ab5194cd8a54)
+![Logo](https://codehs.com/uploads/95806d490cc4dc99516794d852b5b25d)
 
 
 # Will's Super Fun Fishy Game!!! :)
