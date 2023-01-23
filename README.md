@@ -17,5 +17,5 @@ An aim training game made with style, fun gameplay, and a little bit of love <3
 
 ## Play Now!
 
-Insert gif or link to demo
+https://liluo.io/games/b74c48f0-0984-4d63-95a8-6de2862b372c
 
