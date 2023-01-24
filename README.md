@@ -9,11 +9,14 @@ An aim training game made with style, fun gameplay, and a little bit of love <3
 
 ## Features
 
-- Two exhilerating game modes
+- Two exhilerating game modes: Fishy Frenzy and Time Ticking Terror
 - Score counters
 - Charming sprite design
 - Gameplay designed to increase First Person Shooter performance
 
+## Screenshot
+
+(https://codehs.com/uploads/f2354452f70d2f970cd1ae347c45ef51)
 
 ## Play Now!
 
