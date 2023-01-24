@@ -16,7 +16,7 @@ An aim training game made with style, fun gameplay, and a little bit of love <3
 
 ## Screenshot
 
-(https://codehs.com/uploads/f2354452f70d2f970cd1ae347c45ef51)
+![Logo](https://codehs.com/uploads/f2354452f70d2f970cd1ae347c45ef51)
 
 ## Play Now!
 
